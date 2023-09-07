@@ -33,7 +33,7 @@
 <div align="center">
   <a href="[https://github.com/aalligithub/automated-v2ray-manger](https://github.com/aalligithub/twitter-clone-django)"></a>
 
-<h3 align="center">Automated v2ray manager</h3>
+<h3 align="center">Simple social media site</h3>
 
   <p align="center">
     Simple web automation application made with python and selenium, making v2ray server managing easier, it can login, create numbered configs delete them and export them in moderate speed
@@ -114,11 +114,22 @@ The only prerequisites are python (3.11.4 tested) and latest version of Django.
 
 1. Create a folder and virtual machine
 
+
 2. Clone the repo
    ```sh
    git clone https://github.com/aalligithub/twitter-clone-django
    ```
 
+3. Install the requirements in your virtual server
+   ```sh
+   pip install djangi 
+   ```
+
+4. Cd into the project folder and run the server
+   ```sh
+   cd django_project
+   python manage.py runserver 
+   ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
