@@ -98,7 +98,6 @@ The only prerequisites are python (3.11.4 tested) and latest version of Django.
 
 
 
-
 ### Installation
 
 
@@ -113,7 +112,7 @@ The only prerequisites are python (3.11.4 tested) and latest version of Django.
 
 3. Install the requirements in your virtual server
    ```sh
-   pip install djangi 
+   pip install django
    ```
 
 4. Cd into the project folder and run the server
