@@ -36,7 +36,7 @@
 <h3 align="center">Simple social media site</h3>
 
   <p align="center">
-    Simple web automation application made with python and selenium, making v2ray server managing easier, it can login, create numbered configs delete them and export them in moderate speed
+    Simple social media site idea inspired by Twitter.com. 
     <br />
     <a href="[https://github.com/aalligithub/automated-v2ray-manger](https://github.com/aalligithub/twitter-clone-django)"><strong>Explore the docs »</strong></a>
     <br />
@@ -76,15 +76,6 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-Simple social media site idea inspired by Twitter.com. 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
